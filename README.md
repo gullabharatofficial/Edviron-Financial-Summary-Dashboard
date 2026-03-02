@@ -3,7 +3,7 @@ Edviron Financial & Operations Dashboard:
 Overview:
 The Edviron Financial & Operations Dashboard provides a comprehensive analysis of payment processing performance across various ERP partners. Key insights include Total Gross Merchandise Value (GMV), revenue splits, payment gateway success rates, and user payment preferences. This dashboard helps in identifying operational bottlenecks, understanding transaction trends, and evaluating partner-level risk, facilitating data-driven decision-making for financial operations.
 
-![Image Description](https://github.com/gullabharatofficial/Edviron-Financial-Summary-Dashboard/blob/main/Screenshot%202026-03-02%20124805.png?raw=true)
+![Image Description](https://github.com/gullabharatofficial/Edviron-Financial-Summary-Dashboard/blob/main/Screenshot%202026-03-02%20131828.png?raw=true)
 Key Features :-
 Financial Overview
 High-Level Metrics: Total GMV, ERP Revenue, Total Transactions, and Edviron Gross Revenue.
